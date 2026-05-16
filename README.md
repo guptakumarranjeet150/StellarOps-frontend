@@ -1,80 +1,108 @@
-# LedgerMind
+# StellarOps
 
-AI-powered crypto accounting and treasury management platform.
+AI-powered automation engine for wallets, payments, and stablecoin workflows on Stellar.
 
 # Overview
 
-LedgerMind helps users track, analyze, and manage blockchain transactions automatically.
+StellarOps helps users automate blockchain actions using simple rules and AI-powered workflows.
+Instead of manually tracking wallets, swaps, payments, and token activity, users can create automation rules that execute automatically.
+Examples:
+• Auto-convert XLM to USDC when price drops
+• Send recurring USDC payroll
+• Save a percentage of incoming payments
+• Trigger alerts for wallet activity
+• Execute swaps based on market conditions
+StellarOps brings “if-this-then-that” automation to the Stellar ecosystem.
 
-The platform provides:
+---
 
-Wallet analytics
-Tax reporting
-Portfolio tracking
-Treasury management
-Financial insights
+Features
 
-# Features
+# Wallet Automation
 
-## Wallet Analytics
+• Automated token swaps
+• Scheduled transfers
+• Auto-saving strategies
+• Wallet monitoring
 
-Transaction tracking
-Profit and loss analysis
-Stablecoin reporting
-Asset categorization
+# AI Workflow Assistant
 
-## Accounting Tools
+• Natural language workflow creation
+• AI-generated automation suggestions
+• Smart alerts and insights
 
-Tax exports
-CSV/PDF reports
-Bookkeeping automation
-Multi-wallet support
+# Stablecoin Tools
 
-## AI Features
+• USDC automation
+• Payment routing
+• Treasury management
+• Recurring subscriptions
 
-AI transaction categorization
-Financial summaries
-Fraud detection
-Smart insights
+# Developer APIs
+
+• Automation SDK
+• Webhook support
+• Workflow APIs
+• Transaction monitoring
+
+---
 
 # Tech Stack
 
-## Frontend
+Frontend
+• Next.js
+• TailwindCSS
+• TypeScript
 
-Next.js
-React
-TailwindCSS
+# Backend
 
-## Backend
+• NestJS
+• PostgreSQL
+• Prisma ORM
+• Redis
 
-NestJS
-PostgreSQL
-Prisma
-Blockchain
-Stellar SDK
+# Blockchain
+
+• Stellar SDK
+• Soroban Smart Contracts
+
+# AI
+
+• OpenAI API
+• LangChain
+
+---
 
 # Revenue Model
 
-SaaS subscriptions
-Enterprise dashboards
-Accounting tools
-Reporting APIs
+• Subscription plans
+• Automation execution fees
+• Premium AI workflows
+• Enterprise APIs
 
-## Users
+---
 
-Traders
-DAOs
-Businesses
-Accountants
-Startups
+# Target Users
 
-## Future Features
+• Freelancers
+• Crypto traders
+• DAOs
+• Businesses
+• Creator economies
+• Developers
 
-AI financial assistant
-Team treasury tools
-Audit dashboard
-Cross-chain analytics
+---
+
+# Future Features
+
+• Telegram automation bot
+• Discord integrations
+• AI financial assistant
+• Cross-chain support
+• Mobile app
+
+---
 
 # Vision
 
-To simplify blockchain accounting and treasury management.
+To become the automation layer for the Stellar ecosystem.
